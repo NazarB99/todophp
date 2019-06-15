@@ -1,0 +1,31 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.pagination {
+    display: inline-block;!important;
+    margin-bottom: 25px;!important;
+    margin-top: 10px;!important;
+    padding-left: 15px;!important;
+}
+
+.pagination>li {
+    display: inline;!important;
+}
+
+.pagination li {
+    padding: 10px 15px;
+    background-color: #969696;
+}
+
+.pagination li a{
+    color: white;
+}
+
+.pagination .active{
+    background-color: #c69500;
+}
